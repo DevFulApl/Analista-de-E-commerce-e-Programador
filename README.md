@@ -16,19 +16,19 @@ Além da operação, possuo base forte em **programação, desenvolvimento web e
 
 Entrego resultados consistentes, com perfil proativo, organizado e orientado a metas. Já trabalhei em projetos de lojas como:
 
-* Luppetshop		: https://luppetshop.com.br
-* Miamarcondelli	: miamarcondelli.com.br
-* Nextacasa			: nextacasa.com.br
-* Binelli			: binelli.com.br
-* Eshop 			: eshop.com.br
-* Mundrone			: mundrone.com.br
-* Mirol 			: mirol.com.br
-* Ecocappelle 		: ecocappelle.com.br
-* Emporiofinco		: emporiofinco.com.br
-* Deskdesign		: deskdesign.com.br
-* Toppaz			: toppaz.com.br
-* Clavishop			: clavishop.com.br
-* Chicline			: chicline.com.br
+* Luppetshop		    : https://luppetshop.com.br
+* Miamarcondelli	 : https://miamarcondelli.com.br
+* Nextacasa			    : https://nextacasa.com.br
+* Binelli			      : https://binelli.com.br
+* Eshop 			: https://eshop.com.br
+* Mundrone			: https://mundrone.com.br
+* Mirol 			: https://mirol.com.br
+* Ecocappelle 		: https://ecocappelle.com.br
+* Emporiofinco		: https://emporiofinco.com.br
+* Deskdesign		: https://deskdesign.com.br
+* Toppaz			: https://toppaz.com.br
+* Clavishop			: https://clavishop.com.br
+* Chicline			: https://chicline.com.br
 
 
 
