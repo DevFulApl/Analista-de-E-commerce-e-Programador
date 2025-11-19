@@ -3,8 +3,8 @@
 
  
 — Sistemas para Internet	: Universidade do Vale do Itajaí (Univali)
-— Período					        : 2019
-— Linkedin					      : https://www.linkedin.com/in/victor-programador-fullstack/
+— Período					: 2019
+— Linkedin					: https://www.linkedin.com/in/victor-programador-fullstack/
 
 Sou Programador e Gestor de E-commerce, com experiência prática na operação completa de lojas virtuais, integração de sistemas e otimização de performance. Atuo tanto na parte técnica quanto operacional, garantindo que o e-commerce funcione com eficiência, conversão e foco em resultados.
 
@@ -86,3 +86,5 @@ Quando uma empresa está com metas abaixo, o que ela precisa é alguém que cons
 ✔ executar rápido
 ✔ e testar hipóteses
 
+
+---
