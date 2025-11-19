@@ -16,7 +16,7 @@ Além da operação, possuo base forte em **programação, desenvolvimento web e
 
 Entrego resultados consistentes, com perfil proativo, organizado e orientado a metas. Já trabalhei em projetos de lojas como:
 
-* Luppetshop		: luppetshop.com.br
+* Luppetshop		: https://luppetshop.com.br
 * Miamarcondelli	: miamarcondelli.com.br
 * Nextacasa			: nextacasa.com.br
 * Binelli			: binelli.com.br
